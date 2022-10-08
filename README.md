@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-using-css-xS7DtaFAHe](https://www.frontendmentor.io/solutions/flexbox-using-css-xS7DtaFAHe)
+- Live Site URL: [https://s-cw.github.io/FrontEnd-mentor-challenge-QR-code-component/](https://s-cw.github.io/FrontEnd-mentor-challenge-QR-code-component/)
 
 ## My process
 
@@ -32,6 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML
 - CSS custom properties
 - Flexbox
+
 
 ### What I learned
 
@@ -51,10 +52,9 @@ Here is a snipper of what I have learn and applied into this challenge
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element) - This helped me for centering some of the elements. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This is an amazing article which helped me finally understand how Flexbox works. I'd recommend it to anyone still learning this concept.
+- [Flexbox center element](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element) - This helped me for centering some of the elements. I really liked this pattern and will use it going forward.
+- [Flexbox article](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This is an amazing article which helped me finally understand how Flexbox works. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
